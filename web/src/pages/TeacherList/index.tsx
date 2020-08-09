@@ -36,7 +36,7 @@ const TeacherList: React.FC = () => {
 					  label="dia da semana"
 					  options={[
 						{ value: '1', label: 'domingo'},
-						{ value: '2', label: 'sábado'},
+						{ value: '2', label: 'segunda'},
 						{ value: '3', label: 'terça'},
 						{ value: '4', label: 'quarta'},
 						{ value: '5', label: 'quinta'},
